@@ -25,7 +25,7 @@ The dataset used in this project is originally from the National Institute of Di
 
 - Handle zero values by treating them as NaN and imputing with central tendency measures.
 - Apply StandardScaler to the dataset.
-- Split the data into training and test sets.
+- Split the data into training and test sets, maintaining class distribution.
 
 ### Exploratory Data Analysis (EDA)
 
@@ -57,11 +57,11 @@ The ROC AUC scores of the models are as follows:
 
 | Model                       | ROC AUC Score |
 |-----------------------------|---------------|
-| Logistic Regression         | 0.8307        |
-| k-Nearest Neighbors (kNN)   | 0.7990        |
-| Decision Tree               | 0.7060        |
-| Gaussian Naive Bayes        | 0.8399        |
-| Support Vector Machine (SVM)| 0.8273        |
+| Logistic Regression         | 0.8285        |
+| k-Nearest Neighbors (kNN)   | 0.8193        |
+| Decision Tree               | 0.7333        |
+| Gaussian Naive Bayes        | 0.8272        |
+| Support Vector Machine (SVM)| 0.8311        |
 
 Among the classification models evaluated, the Gaussian Naive Bayes Classifier exhibits slightly better performance relative to the other classification models.
 
