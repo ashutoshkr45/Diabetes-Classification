@@ -63,7 +63,7 @@ The ROC AUC scores of the models are as follows:
 | Gaussian Naive Bayes        | 0.8272        |
 | Support Vector Machine (SVM)| 0.8311        |
 
-Among the classification models evaluated, the Gaussian Naive Bayes Classifier exhibits slightly better performance relative to the other classification models.
+Among the classification models evaluated, the Gaussian Naive Bayes and SVM Classifier exhibits slightly better performance relative to the other classification models.
 
 ## Importance
 
