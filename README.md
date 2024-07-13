@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze the diabetes dataset and apply various classification algorithms to determine which model performs best in predicting whether a patient has diabetes based on diagnostic measurements. The classification algorithms used include Logistic Regression, k-Nearest Neighbors (kNN), Decision Tree, Naïve Bayes, and Support Vector Machine (SVM). The models are evaluated on different performance metrics such as accuracy, confusion matrix, and Area Under the ROC Curve (AUC).
+This project aims to analyze the diabetes dataset and apply various classification algorithms to determine which model performs best in predicting whether a patient has diabetes based on diagnostic measurements. The classification algorithms used include Logistic Regression, kNN, Decision Tree, Naïve Bayes, and SVM. The models are evaluated on different performance metrics such as accuracy, confusion matrix, and Area Under the ROC Curve (AUC).
 
 ## Dataset
 
